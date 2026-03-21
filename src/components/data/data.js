@@ -25,7 +25,7 @@ const buildDaysFromStart = (startISO, templates) => {
 };
 
 // Día 1 = 2026-02-19 (importante)
-const EXEQUIEL_START = "2026-02-19";
+const EXEQUIEL_START = "2026-02-21";
 
 const EXEQUIEL_DAY_TEMPLATES = [
   // DÍA 1 (2026-02-19)
@@ -663,7 +663,7 @@ const EXEQUIEL_DAY_TEMPLATES = [
 ];
 
 // Andrea (Usuario A) — Día 1 = 2026-02-19
-const ANDREA_START = "2026-02-19";
+const ANDREA_START = "2026-03-21";
 
 const ANDREA_DAY_TEMPLATES = [
   // DÍA 1
